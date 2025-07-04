@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "recipe-roots",
-    "slug": "recipe-roots",
+    "name": "roots",
+    "slug": "roots",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "reciperoots",
+    "scheme": "roots",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.roots"
     },
     "web": {
       "bundler": "metro",
